@@ -1,5 +1,6 @@
 ## 🖐 Olá me Chamo Ailton 
 ### Mais conhecido como Sniper
+O código é poesia escrita em linguagem que as máquinas entendem
 - 🌾 Estudando: Python
 - 👲 Pronomes: Ele/Dele
 - 💬 Discord: sniperbr.
