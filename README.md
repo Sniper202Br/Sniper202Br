@@ -1,7 +1,7 @@
 ## 🖐 Olá me Chamo Ailton 
 ### Mais conhecido como Sniper
 O código é poesia escrita em linguagem que as máquinas entendem
-- 🌾 Estudando: Python
+- 🌾 Estudando: JavaScript
 - 👲 Pronomes: Ele/Dele
 - 💬 Discord: sniperbr.
 ---
@@ -38,6 +38,14 @@ O código é poesia escrita em linguagem que as máquinas entendem
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=h34ofns38nTN&format=png&color=000000" 
 />
 
 <br/>
