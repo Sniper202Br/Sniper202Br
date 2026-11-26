@@ -26,7 +26,7 @@ Também sou o criador da **Luna**, bot oficial do projeto **Lan House Gamer For 
 
 ## 🚀 Projeto em destaque
 
-### 🌙 Luna — Bot Oficial
+### 🌙 Luna Bot Oficial
 
 <p align="center">
   <img src="https://img.shields.io/badge/PROJECT-LUNA-8B5CF6?style=for-the-badge&logo=discord&logoColor=white" />
